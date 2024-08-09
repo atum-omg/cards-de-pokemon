@@ -101,7 +101,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/imagens/poibula.png);
+    background-image: url(./imagens/poibula.png);
     background-size: cover;
     height: 100vh;
 
